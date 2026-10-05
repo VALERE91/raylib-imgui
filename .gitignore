@@ -1,0 +1,9 @@
+build/
+build-*/
+.cache/
+imgui.ini
+*.png
+!docs/**/*.png
+.DS_Store
+.vscode/
+.idea/
